@@ -1,0 +1,20 @@
+{
+  "name": "nodejsders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exportsDemo.js",
+  "scripts": {
+    "start": "nodemon expressDemo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.0",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^6.10.0",
+    "nodemon": "^3.0.1"
+  }
+}
