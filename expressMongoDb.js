@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const Customer = require("./customer");
 
 mongoose.connect(
-  "mongodb+srv://alisahib1998:alisahib@cluster0.iavobrj.mongodb.net/?retryWrites=true&w=majority",
+  "",
   (error) => {
     if (!error) {
       console.log("connected");
